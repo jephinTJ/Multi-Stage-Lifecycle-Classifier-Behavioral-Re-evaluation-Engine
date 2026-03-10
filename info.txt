@@ -1,0 +1,5 @@
+Project Name: "Aegis-Revenue: Multi-Stage Lifecycle Classifier & Re-evaluation Engine"
+
+The Goal: To move from "Static Prediction" to "Dynamic Identity Mapping." The goal is to accurately lock a player into a monetization bucket (Payer vs. Watcher) by Day 5, using a 3-stage re-evaluation funnel to maximize LTV and minimize "economic mismatch" (showing ads to whales or IAP offers to watchers).
+
+The Need in the Modern World: In the post-IDFA (Apple Privacy) era, User Acquisition (UA) is expensive. You cannot afford to treat a "Neutral" player as a "Watcher" and lose potential IAP revenue. Conversely, if you don't identify a "Watcher" early, you lose the chance to recoup costs through ads before they churn. This project optimizes the "Economy-Player Fit."
